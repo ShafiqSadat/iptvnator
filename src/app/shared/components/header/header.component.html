@@ -15,7 +15,7 @@
     >
         <mat-icon>add</mat-icon>
     </button>
-    <button
+    <!-- <button
         mat-icon-button
         [matTooltip]="'HOME.FILTER_BY_NAME' | translate"
         data-test-id="filter-playlist-by-name"
@@ -28,7 +28,7 @@
         data-test-id="filter-playlist-by-type"
     >
         <mat-icon>filter_list</mat-icon>
-    </button>
+    </button> -->
     <button
         *ngIf="isElectron; else pwaMenu"
         mat-icon-button
@@ -104,22 +104,22 @@
             </button>
             <mat-divider></mat-divider>
         </ng-container>
-<!--         <button
+        <button
             mat-menu-item
             [attr.aria-label]="'MENU.SUPPORT_ARIA' | translate"
             (click)="openUrl('https:///github.com/4gray/iptvnator')"
         >
             <mat-icon>recommend</mat-icon>
             <span>GitHub</span>
-        </button> -->
-<!--         <button
+        </button>
+        <button
             mat-menu-item
             [attr.aria-label]="'MENU.BUG_REPORT' | translate"
             (click)="openUrl('https://github.com/4gray/iptvnator/issues')"
         >
             <mat-icon>bug_report</mat-icon>
             <span>{{ 'MENU.BUG_REPORT' | translate }}</span>
-        </button> -->
+        </button>
         <mat-divider></mat-divider>
         <button
             mat-menu-item
