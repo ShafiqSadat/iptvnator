@@ -1,7 +1,7 @@
 {
     "CLOSE": "Close",
     "HOME": {
-        "TITLE": "IPTVnator",
+        "TITLE": "IPTV Player Robot",
         "SUBTITLE": "Please select a playlist from the list or add a new playlist",
         "TABS": {
             "RECENTLY_ADDED": "Recently added playlists",
