@@ -11,7 +11,7 @@
         },
         "PLAYLISTS": {
             "NO_PLAYLISTS": "尚未新增播放清單",
-            "ADD_FIRST": "請從其他分頁新增您的第一個播放清單",
+            "ADD_FIRST": "請返回機器人並複製列表，然後將其新增至此頁面",
             "ADDED_VIA_URL": "透過網址上傳。網址：",
             "ADDED_VIA_FILE": "透過檔案上傳",
             "CHANNELS": "頻道",
