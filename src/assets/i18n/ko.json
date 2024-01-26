@@ -11,7 +11,7 @@
         },
         "PLAYLISTS": {
             "NO_PLAYLISTS": "재생 목록이 추가되지 않았습니다",
-            "ADD_FIRST": "다른 탭에서 첫 번째 재생 목록을 추가하십시오",
+            "ADD_FIRST": "봇으로 돌아가서 목록을 복사한 다음 이 페이지에 추가하세요.",
             "ADDED_VIA_URL": "URL 업로드를 통해 추가되었습니다. URL:",
             "ADDED_VIA_FILE": "파일 업로드를 통해 추가되었습니다",
             "CHANNELS": "채널",
