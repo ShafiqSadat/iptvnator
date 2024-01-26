@@ -11,7 +11,7 @@
         },
         "PLAYLISTS": {
             "NO_PLAYLISTS": "Aucune liste de lecture n'a été ajouté",
-            "ADD_FIRST": "Veuillez ajouter votre première liste de lecture depuis un autre onglet",
+            "ADD_FIRST": "Veuillez revenir au bot et copier une liste, puis l'ajouter à cette page",
             "ADDED_VIA_URL": "Ajouté par URL. URL :",
             "ADDED_VIA_FILE": "Ajouté par transfert de fichier",
             "CHANNELS": "Chaines",
