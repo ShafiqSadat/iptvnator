@@ -15,7 +15,7 @@
     >
         <mat-icon>add</mat-icon>
     </button>
-    <!-- <button
+    <button
         mat-icon-button
         [matTooltip]="'HOME.FILTER_BY_NAME' | translate"
         data-test-id="filter-playlist-by-name"
@@ -28,7 +28,7 @@
         data-test-id="filter-playlist-by-type"
     >
         <mat-icon>filter_list</mat-icon>
-    </button> -->
+    </button>
     <button
         *ngIf="isElectron; else pwaMenu"
         mat-icon-button
