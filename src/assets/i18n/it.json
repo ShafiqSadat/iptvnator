@@ -13,7 +13,7 @@
         },
         "PLAYLISTS": {
             "NO_PLAYLISTS": "Nessuna playlist è stata aggiunta",
-            "ADD_FIRST": "Aggiungi la tua prima playlist dall'altra scheda",
+            "ADD_FIRST": "Torna al bot e copia un elenco, quindi aggiungilo a questa pagina",
             "ADDED_VIA_URL": "Aggiunto tramite caricamento URL. URL:",
             "ADDED_VIA_FILE": "Aggiunto tramite caricamento file",
             "XTREAM_PLAYLIST": "Playlist Xtream",
