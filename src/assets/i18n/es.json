@@ -11,7 +11,7 @@
         },
         "PLAYLISTS": {
             "NO_PLAYLISTS": "No se añadieron listas de reproducción",
-            "ADD_FIRST": "Por favor, añade tu primera lista de la otra pestaña",
+            "ADD_FIRST": "Vuelva al bot, copie una lista y luego agréguela a esta página.",
             "ADDED_VIA_URL": "Añadido por carga de URL. URL:",
             "ADDED_VIA_FILE": "Añadido por carga de archivo",
             "CHANNELS": "Canales",
