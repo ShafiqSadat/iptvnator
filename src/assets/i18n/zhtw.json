@@ -1,7 +1,7 @@
 {
     "CLOSE": "關閉",
     "HOME": {
-        "TITLE": "IPTVnator",
+        "TITLE": "IPTV Player Robot",
         "SUBTITLE": "請從列表中選擇一個播放清單，或透過檔案上傳或網址新增新播放清單",
         "TABS": {
             "RECENTLY_ADDED": "最近新增的播放清單",
