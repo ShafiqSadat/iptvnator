@@ -11,7 +11,7 @@
         },
         "PLAYLISTS": {
             "NO_PLAYLISTS": "未添加播放列表",
-            "ADD_FIRST": "从其他标签页添加你的第一个播放列表",
+            "ADD_FIRST": "请返回机器人并复制列表，然后将其添加到此页面",
             "ADDED_VIA_URL": "添加自URL链接:",
             "ADDED_VIA_FILE": "添加自文件",
             "CHANNELS": "频道",
